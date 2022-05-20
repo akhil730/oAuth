@@ -1,0 +1,22 @@
+{
+  "name": "oauthpar3-forked",
+  "version": "3.0.0",
+  "description": "OAuth with google Login",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/4j7m47vlm4",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "4.11.3",
+    "axios": "0.27.2",
+    "jwt-decode": "3.1.2",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-file-base64": "1.0.3",
+    "react-google-login": "5.2.2",
+    "react-redux": "8.0.1",
+    "react-router-dom": "6.3.0",
+    "redux": "4.2.0",
+    "redux-thunk": "2.4.1"
+  }
+}
