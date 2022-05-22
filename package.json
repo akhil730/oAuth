@@ -3,7 +3,7 @@
   "version": "3.0.0",
   "description": "OAuth with google Login",
   "keywords": [],
-  "homepage": "https://codesandbox.io/s/4j7m47vlm4",
+  "homepage": "https://akhil730.github.io/oAuth",
   "main": "index.js",
   "dependencies": {
     "@material-ui/core": "latest",
